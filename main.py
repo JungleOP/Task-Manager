@@ -31,7 +31,7 @@ def main():
             else:
                 print("Invalid option")
         except EOFError:
-            sys.exit("Exited Successfully, Have A good day ")
+            sys.exit("Have A good day ")
 
 
 
